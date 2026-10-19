@@ -1,6 +1,11 @@
 # Archivos compilados de Java
 *.class
 bin/
+out/
+.vscode/
+.classpath
+.project
+.settings/
 
 # Archivos del sistema operativo
 .DS_Store
